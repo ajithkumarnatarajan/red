@@ -1,0 +1,5 @@
+Welcome to Technologies list
+
+Technologies:
+Data science
+AI
